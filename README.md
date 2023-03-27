@@ -1,2 +1,2 @@
 # Dev
-Optimization Makes the automation possible
+Optimization Makes automation possible
